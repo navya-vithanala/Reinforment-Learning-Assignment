@@ -1,1 +1,1 @@
-"# Reinforcement Learning Assignment" 
+"# Reinforcement Learning Indivdual Assignment" 
